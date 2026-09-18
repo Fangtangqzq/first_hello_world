@@ -7,7 +7,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/b_154bcae11521d059774b59a9d46827c4"
-        android:label="helloworld"
+        android:label="2024110531&#21776;&#23578;&#23431;"
         android:roundIcon="@drawable/b_154bcae11521d059774b59a9d46827c4"
         android:supportsRtl="true"
         android:theme="@style/Theme.Hellowrold">
